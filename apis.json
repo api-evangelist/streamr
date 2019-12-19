@@ -1,0 +1,104 @@
+{
+    "name": "Streamr",
+    "description": "Data done differently with our realtime #data Marketplace & p2p decentralised Network supported by #Ethereum. #IoT \ud83d\udcf6  #blockchain \ud83d\udcaa $DATA #cryptocurrencies",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/26717-streamr.jpg",
+    "tags": [
+        "blockchain",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/streamr\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Streamr",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/26717-streamr.jpg",
+            "humanURL": "http:\/\/www.streamr.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/streamr-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/streamr-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Hacker News Search",
+            "url": "Streamr"
+        },
+        {
+            "type": "Stack Exchange Search",
+            "url": "Streamr"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.streamr.com"
+        },
+        {
+            "type": "Blog",
+            "url": "https:\/\/medium.com\/streamrblog"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "https:\/\/medium.com\/feed\/streamrblog"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/6d07b663-9457-362e-8209-72980d412756"
+        },
+        {
+            "type": "Email",
+            "url": "contact@streamr.com"
+        },
+        {
+            "type": "Email",
+            "url": "media@streamr.com"
+        },
+        {
+            "type": "Email",
+            "url": "jobs@streamr.com"
+        },
+        {
+            "type": "Email",
+            "url": "labs@streamr.com"
+        },
+        {
+            "type": "FAQ",
+            "url": "https:\/\/www.streamr.com\/faq"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/streamr-dev"
+        },
+        {
+            "type": "Reddit",
+            "url": "https:\/\/www.reddit.com\/r\/streamr\/"
+        },
+        {
+            "type": "Reddit Search",
+            "url": "Streamr"
+        },
+        {
+            "type": "Registration",
+            "url": "https:\/\/www.streamr.com\/login\/auth"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/streamrinc"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/www.streamr.com"
+        }
+    ]
+}
